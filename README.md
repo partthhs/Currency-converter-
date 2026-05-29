@@ -10,8 +10,9 @@ OOP Principles<br>
 # Future Enhancements
 Integrate real-time exchange rates using an API<br>
 Add more currencies<br>
-Improve UI with modern design (JavaFX)<br>
+Improve GUI with modern design (JavaFX)<br>
 Add history of conversions<br>
+
 
 
 #Gui image :-
